@@ -1,0 +1,7 @@
+Escribir "" // Salto de línea para mejor presentación
+// Mostrar los resultados finales
+Escribir "--- Resultados del Ingreso ---"
+Escribir "Personas con acceso permitido: " , accesosPermitidos
+Escribir "Personas con acceso denegado: " , accesosDenegados
+FinAlgoritmo
+	
